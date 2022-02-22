@@ -6,7 +6,7 @@ Hellos
 
 
 
-In the project directory you can run: hhh
+In the project directory you can run: 
 
 ###
 
